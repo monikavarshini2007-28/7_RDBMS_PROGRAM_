@@ -1,4 +1,5 @@
-
+create database STUDENT MARKSHEET;
+use STUDENT MARKSHEET;
 CREATE TABLE Marksheet (
 RollNo INT,
 Name VARCHAR(30),
